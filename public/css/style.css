@@ -1,2 +1,11 @@
-body    { padding-top:50px; }
-.container .jumbotron    { border-radius:40px; }
+body {
+    padding-top:50px; 
+}
+.container{
+    background-color: rgb(60, 70, 83);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(58, 144, 114);
+}
