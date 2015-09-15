@@ -1,3 +1,0 @@
-# heroku-game
-
-Pure learning
